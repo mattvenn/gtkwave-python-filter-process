@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Tue Oct 20 08:44:15 2020
+[*]
+[dumpfile] "/home/matt/work/gtkwave-python-filter-process/test.vcd"
+[dumpfile_mtime] "Tue Oct 20 08:34:28 2020"
+[dumpfile_size] 960
+[savefile] "/home/matt/work/gtkwave-python-filter-process/test.gtkw"
+[timestart] 0
+[size] 1979 824
+[pos] 49 49
+*-3.684498 70 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] test.
+[sst_width] 240
+[signals_width] 280
+[sst_expanded] 1
+[sst_vpaned_height] 230
+@28
+test.digit_0.clk
+@22
+test.digit_0.char[3:0]
+@4023
+^>1 /home/matt/work/gtkwave-python-filter-process/filter-process.py
+test.digit_0.char[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
