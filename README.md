@@ -19,6 +19,10 @@ Choose the filter:
 
 Enjoy easier to read traces!
 
+# Examples
+
+* [RISCV instruction decoder](examples/riscv-filter.py)
+
 # Attribution
 
 I couldn't get a Python version to work until I saw this filter than can use sigrok protocol decoders:
