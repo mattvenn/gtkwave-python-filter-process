@@ -18,3 +18,8 @@ Choose the filter:
 ![setup](gtkwave-setup.png)
 
 Enjoy easier to read traces!
+
+# Attribution
+
+I couldn't get a Python version to work until I saw this filter than can use sigrok protocol decoders:
+https://gist.github.com/smunaut/4239a17ea116d5ddfdaecad381f712e9
