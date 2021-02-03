@@ -23,6 +23,8 @@ Enjoy easier to read traces!
 
 * [RISCV instruction decoder](examples/riscv-filter.py)
 
+[youtube video demo](https://youtu.be/Yc16oYOsrTk)
+
 # Attribution
 
 I couldn't get a Python version to work until I saw this filter than can use sigrok protocol decoders:
