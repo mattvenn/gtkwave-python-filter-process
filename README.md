@@ -17,13 +17,12 @@ Choose the filter:
 
 ![setup](gtkwave-setup.png)
 
-Enjoy easier to read traces!
+Enjoy easier to read traces! See this [video demo](https://youtu.be/Yc16oYOsrTk) of adding a filter.
 
 # Examples
 
 * [RISCV instruction decoder](examples/riscv-filter.py)
 
-[youtube video demo](https://youtu.be/Yc16oYOsrTk)
 
 # Attribution
 
