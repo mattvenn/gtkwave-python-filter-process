@@ -13,6 +13,8 @@ useful for things like:
 
 Adapt the [example filter](filter-process.py), making sure your lines end with a newline char.
 
+*Make sure the filter is executable!*
+
 Choose the filter:
 
 ![setup](gtkwave-setup.png)
